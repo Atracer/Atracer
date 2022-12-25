@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Atracer
 - 👀 I’m interested in Machine learning algorithm, cloud computing, database managements. 
 - 🌱 I’m currently learning deep learning algorithm, data structures. 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any programs about machine learning, cloud computing using python, java, etc. 
 - 📫 How to reach me: jimingyu.work@gmail.com
 
 <!---
